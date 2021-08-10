@@ -1,0 +1,17 @@
+caption {
+    background-color: red;
+    color: white;
+}
+img {
+    float: left;
+}
+table {
+    padding: 5px;
+    background-color: wheat;
+}
+td#head {
+    color: white;
+}
+td#bold {
+    border-width: 5px;
+}
